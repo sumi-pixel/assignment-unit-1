@@ -1,4 +1,4 @@
-/* Add a background color to the header element */
+/* Add a backgroundhead color to the header element */
 
 /* Add a fun background color to the main element */
 
@@ -11,3 +11,36 @@
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+header{
+    background-color:rgba(1, 0, 0, 0);   
+}
+
+
+main{
+    background-color:rgba(1, 0, 0, 0);
+    background-color:#89d1d9;
+}
+
+h1{
+    text-align:center; 
+    font-size:45px; 
+    background-color:#73AD21;
+}
+
+
+img{
+    box-sizing: border-box;
+    border: 6px solid #73AD21;
+    margin:auto; 
+}
+footer{
+    background-color:rgba(96, 189, 167, 0);
+    background-color:#b538b9;
+}
+p{
+    border-color: blue;
+    font-family: Helvetica, sans-serif;
+    font-style: italic; 
+    
+    }
+
